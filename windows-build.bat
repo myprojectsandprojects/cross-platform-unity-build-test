@@ -1,0 +1,1 @@
+g++ windows-hello.cpp
