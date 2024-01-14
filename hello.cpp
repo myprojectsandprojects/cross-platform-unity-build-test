@@ -5,5 +5,5 @@ void GreetCountTimes(int32_t GreetCount)
 	// {
 	// 	OSDep_Greet();
 	// }
-	OSDep_Greet();
+	OS_Greet();
 }

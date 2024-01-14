@@ -4,7 +4,7 @@
 
 // OS SERVICES:
 
-void OSDep_Greet()
+void OS_Greet()
 {
 	const uint8_t buf[] = "Hello Linux!\n";
 	size_t count = 13;

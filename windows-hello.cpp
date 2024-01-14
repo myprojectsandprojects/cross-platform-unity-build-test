@@ -4,7 +4,7 @@
 
 // OS SERVICES HERE:
 
-void OSDep_Greet()
+void OS_Greet()
 {
 	HANDLE StdOut = GetStdHandle(STD_OUTPUT_HANDLE);
 
